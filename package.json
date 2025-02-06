@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Учебный курс",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "build": "webpack --mode=production",
     "watch": "webpack --watch --mode=development"
