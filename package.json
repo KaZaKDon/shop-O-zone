@@ -1,0 +1,25 @@
+{
+  "name": "shop-o-zone",
+  "version": "1.0.0",
+  "description": "Учебный курс",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "url": "git+https://github.com/KaZaKDon/shop-O-zone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaZaKDon/shop-O-zone/issues"
+  },
+  "homepage": "https://github.com/KaZaKDon/shop-O-zone#readme",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
